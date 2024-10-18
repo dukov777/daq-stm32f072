@@ -6,4 +6,6 @@ Official documentation for the STM32F072RB microcontroller can be found at the f
 
 Reference projects for the 072-discovery board can be found at the following [link](https://www.st.com/en/embedded-software/stsw-stm32139.html#overview)
 
+Reference to development board can be found at the following [link](https://www.st.com/en/evaluation-tools/32f072bdiscovery.html)
+
 ## Getting Started
