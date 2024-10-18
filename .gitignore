@@ -55,3 +55,7 @@ dkms.conf
 .DS_Store
 .AppleDouble
 .LSOverride
+
+#STM32CubeIde specific
+Debug/
+Release/
